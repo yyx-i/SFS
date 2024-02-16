@@ -1,7 +1,7 @@
 安装mt管理器
 下载SFS和com.StefMorojna.SpaceflightSimulator.v2.playerprefs.xml
 找到SFS
-点击 选择“功能”
+点击  选择“功能”
 选择“注入文件提供器”
 “自动签名”打勾
 “确定”
